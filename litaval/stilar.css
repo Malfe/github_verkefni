@@ -11,9 +11,12 @@ body {
 
 .vetur {
 
-	/*Settu eigin stíla hér fyrir vetur litaþema*/
+	/*
+		Settu eigin stíla hér fyrir vetur litaþema
+		Blátt er fínt fyrir vetur.. en breytti í darkblue
+	*/
 
-   	background: linear-gradient(to top left, blue, white); /* Standard syntax (must be last) */
+   	background: linear-gradient(to top left, darkblue, white); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
 	height: 100%;

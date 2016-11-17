@@ -1,3 +1,4 @@
+#Augljós breyting á Readme fyrir verkefni
 
 #GitHub einstaklingsverkefni 
 
